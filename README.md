@@ -7,4 +7,4 @@
  APK: https://drive.google.com/file/d/15tFXBaZ1GpdQz0W0HflbxrPpnA0sY6Ff/view?usp=sharing 
 
  Prototype: https://www.figma.com/proto/vpZATznxdZsrDAPowye9Qf/Unsplash?page-id=0%3A1&node-id=0%3A2&starting-point-node-id=0%3A2
- <link src='https://www.figma.com/proto/vpZATznxdZsrDAPowye9Qf/Unsplash?page-id=0%3A1&node-id=0%3A2&starting-point-node-id=0%3A2'>
+ <Button src='https://www.figma.com/proto/vpZATznxdZsrDAPowye9Qf/Unsplash?page-id=0%3A1&node-id=0%3A2&starting-point-node-id=0%3A2'>
