@@ -11,8 +11,7 @@
 
  
 # Apk and Prototype 
-<a href="#" class="button">Download APK </a>
-<input class="button" type="submit" value="https://drive.google.com/file/d/15tFXBaZ1GpdQz0W0HflbxrPpnA0sY6Ff/view?usp=sharing ">
+<a href="https://drive.google.com/file/d/15tFXBaZ1GpdQz0W0HflbxrPpnA0sY6Ff/view?usp=sharing " class="button">Download APK </a>
  APK: https://drive.google.com/file/d/15tFXBaZ1GpdQz0W0HflbxrPpnA0sY6Ff/view?usp=sharing 
 
  Prototype: https://www.figma.com/proto/vpZATznxdZsrDAPowye9Qf/Unsplash?page-id=0%3A1&node-id=0%3A2&starting-point-node-id=0%3A2
